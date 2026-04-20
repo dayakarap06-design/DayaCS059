@@ -4,4 +4,5 @@ p2Output:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/p
 p3Output:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/p3Output.png
 p4Output:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/p4Output.png
 p5Output:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/p5Output.png
+p6Output:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/p6Output.png
 
