@@ -12,3 +12,4 @@ p10Output:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/
 StringHandlingDemoOutput:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/StringHandlingDemoOutput.png
 PerformanceTestDemoOutput:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/PerformanceTestDemoOutput.png
 StringOperationsDemoOutput:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/StringOperationsDemoOutput.png
+StringExrecies_output:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/StringExrecies_output.png
