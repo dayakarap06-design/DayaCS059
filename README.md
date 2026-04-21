@@ -19,5 +19,6 @@ ImageButtonDemoOutput:https://github.com/dayakarap06-design/DayaCS059/blob/main/
 CountryListdemoOutput:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/CountryListdemoOutput.png
 ColorTabbedPaneOutput:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/ColorTabbedPaneOutput.png
 CountryCapitalDemoOutput:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/CountryCapitalDemoOutput.png
+CMYTabbedPaneOutpu:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/CMYTabbedPaneOutput.png
 
 
