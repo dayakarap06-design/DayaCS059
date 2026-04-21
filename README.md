@@ -15,4 +15,5 @@ StringOperationsDemoOutput:https://github.com/dayakarap06-design/DayaCS059/blob/
 StringExrecies_output:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/StringExrecies_output.png
 HelloSwingOutput:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/HelloSwingOutput.png
 CountryButtonDemoOutput:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/CountryButtonDemoOutput.png
+ImageButtonDemoOutput:https://github.com/dayakarap06-design/DayaCS059/blob/main/javalab%201/ImageButtonDemoOutput.png
 
